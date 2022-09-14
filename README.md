@@ -105,7 +105,7 @@ These is a necessary software that you need to install on you OS in other to run
 
 _Below is a list of setup instructions in other to install the project locaaly._
 
-1. Clone this repo and CD into the root directory
+1. `Clone this repo and CD into the root directory`
 
 _setup commands. run the following commands at the root of the project to spin it up_
 
@@ -113,11 +113,17 @@ _setup commands. run the following commands at the root of the project to spin i
    docker-compose up --build
    ```
    
-3. ```docker exec -it project_website_1 bash ```
+3. ```
+   docker exec -it project_website_1 bash 
+   ```
    
-4. ```pip install --editable .```
+4. ```
+   pip install --editable .
+   ```
    
-5. ```docker-compose exec website project add all```
+5. ```
+   docker-compose exec website project add all
+   ```
    
 
 <!-- USAGE EXAMPLES -->
