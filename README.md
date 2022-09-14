@@ -134,7 +134,7 @@ _To play around with the API, please visit to the [Documentation]([https://examp
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [![MIT License][license-shield]][license-url] for more information.
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 
 <!-- CONTACT -->
