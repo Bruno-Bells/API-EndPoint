@@ -109,7 +109,9 @@ _Below is a list of setup instructions in other to install the project locaaly._
 
 _setup commands. run the following commands at the root of the project to spin it up_
 
-2. ```docker-compose up --build```
+2. ```
+   docker-compose up --build
+   ```
    
 3. ```docker exec -it project_website_1 bash ```
    
