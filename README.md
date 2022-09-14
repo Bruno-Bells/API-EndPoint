@@ -95,7 +95,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-These is a necessary software that you need to install on you OS in order to run this project locally.
+These is a necessary software that you need to install on your OS in order to run this project locally.
 * Docker
 
 
