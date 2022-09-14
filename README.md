@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://img.freepik.com/free-vector/gradient-api-illustration_23-2149368725.jpg?w=1060&t=st=1663195122~exp=1663195722~hmac=3a7503a684c20cde6aef60d2c9ee282c3d605702dfd44dd2d0459ad3daceecea" alt="Logo" width="180" height="180">
+    <img src="https://img.freepik.com/free-vector/gradient-api-illustration_23-2149368725.jpg?w=1060&t=st=1663195122~exp=1663195722~hmac=3a7503a684c20cde6aef60d2c9ee282c3d605702dfd44dd2d0459ad3daceecea" alt="Logo" width="180" height="150">
   </a>
 
   <h3 align="center">Users API</h3>
