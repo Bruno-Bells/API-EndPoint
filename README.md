@@ -132,9 +132,9 @@ Distributed under the MIT License. See [![MIT License][license-shield]][license-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [https://twitter.com/your_username](https://www.linkedin.com/in/bruno-odinukweze-023a48198/)
 
-Project Link: [[https://github.com/your_username/repo_name](https://github.com/Bruno-Odinukweze/API-EndPoint/)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/Bruno-Odinukweze/API-EndPoint/)
 
 
 
