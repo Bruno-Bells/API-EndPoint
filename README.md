@@ -127,7 +127,7 @@ _setup commands. run the following commands at the root of the project to spin i
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_To play around with the API, please visit to the ![Documentation]([https://example.com](http://localhost:5000/api/docs/)_
+_To play around with the API, please visit to the [Documentation](http://localhost:5000/api/docs/)_
 
 
 <!-- LICENSE -->
