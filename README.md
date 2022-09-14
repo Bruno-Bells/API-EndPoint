@@ -1,3 +1,7 @@
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 ## TECHNICAL ACCESSMENT SOLUTION
 ## SETUP INSTRUCTIONS
 * docker-compose up --build
@@ -8,11 +12,6 @@
 
 
 <a name="readme-top"></a>
-
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
