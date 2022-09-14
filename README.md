@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is an API endpoint the get a list of Users from a database.
+This project is an API endpoint that get a list of Users from a database.
 
 ### Features:
 * Pagination support
