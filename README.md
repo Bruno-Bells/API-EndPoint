@@ -95,7 +95,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-These is a necessary software that you need to install on you OS in other to run this project locally.
+These is a necessary software that you need to install on you OS in order to run this project locally.
 * Docker
 
 
@@ -127,7 +127,7 @@ _setup commands. run the following commands at the root of the project to spin i
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_To play around with the API, please visit to the [Documentation]([https://example.com](http://localhost:5000/api/docs/))_
+_To play around with the API, please visit to the ![Documentation]([https://example.com](http://localhost:5000/api/docs/)_
 
 
 <!-- LICENSE -->
