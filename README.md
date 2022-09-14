@@ -1,5 +1,4 @@
 [![MIT License][license-shield]][license-url]
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -109,12 +108,16 @@ _Below is a list of setup instructions in other to install the project locaaly._
 1. Clone this repo and CD into the root directory
 
 _setup commands. run the following commands at the root of the project to spin it up_
+
 2. ```docker-compose up --build
    ```
+   
 3. ```docker exec -it project_website_1 bash
    ```
+   
 4. ```pip install --editable .
    ```
+   
 5. ```docker-compose exec website project add all
    ```
    
@@ -134,10 +137,7 @@ Distributed under the MIT License. See [![MIT License][license-shield]][license-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [https://twitter.com/your_username](https://www.linkedin.com/in/bruno-odinukweze-023a48198/)
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Bruno-Odinukweze/API-EndPoint/)
-
+Bruno Odinukweze - [LinkedIn](https://www.linkedin.com/in/bruno-odinukweze-023a48198/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
