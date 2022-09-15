@@ -105,7 +105,7 @@ _Below is a list of instructions in other to install the project locaaly._
 
 1. `Clone this repo and CD into the root directory`
 
-2. `create a .env file in the project root and add you environment variables. look at` [.env.example](./.env.example) to see the specification sample for this project
+2. `create a .env file in the project root and add you environment variables. look at` [.env.example](./.env.example) `to see the specification sample for this project`
 
 _setup commands. run the following commands at the root of the project to spin it up_
 
