@@ -65,8 +65,6 @@ This project is a solution to a technical challenge and is built as per the requ
 
 
 
-Use this url to <a href="#readme-top">View Live Demo</a>
-
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
