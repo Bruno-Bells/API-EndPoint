@@ -107,7 +107,7 @@ _Below is a list of instructions in other to install the project locaaly._
 
 2. `create a .env file in the project root and add you environment variables. look at` [.env.example](./.env.example) `to see the specification sample for this project`
 
-_setup commands. run the following commands at the root of the project to spin it up_
+   _setup commands. Run the following commands at the root of the project to spin it up_
 
 2. ```
    docker-compose up --build
@@ -120,7 +120,7 @@ _setup commands. run the following commands at the root of the project to spin i
 4. ```
    pip install --editable .
    ```
-   `_type exit and hit enter to exit the bash and enter the following command:`
+   `type exit and hit enter to exit the bash and enter the following command:`
 5. ```
    docker-compose exec website project add all
    ```
