@@ -120,10 +120,15 @@ _setup commands. run the following commands at the root of the project to spin i
 4. ```
    pip install --editable .
    ```
-   
+   `_type exit and hit enter to exit the bash and enter the following command:`
 5. ```
    docker-compose exec website project add all
    ```
+6. `open your web browser and enter the following url`
+   ```
+   http://localhost:5000/api/docs/
+   ```
+   `Hurrey! the API is up!`
    
 
 <!-- USAGE EXAMPLES -->
