@@ -101,7 +101,7 @@ These is a necessary software that you need to install on your OS in order to ru
 
 ### Installation
 
-_Below is a list of instructions in other to install the project locaaly._
+_Below is a list of instructions in other to install the project locally._
 
 1. `Clone this repo and CD into the root directory`
 
