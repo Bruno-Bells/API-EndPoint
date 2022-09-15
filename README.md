@@ -116,7 +116,7 @@ _Below is a list of instructions in other to install the project locally._
 3. ```
    docker exec -it project_website_1 bash 
    ```
-   `project_website_1 is the name of the container in this case`
+   `project_website_1 is the name of the image in this case`
    
 4. ```
    pip install --editable .
